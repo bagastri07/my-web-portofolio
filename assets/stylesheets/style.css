@@ -286,7 +286,7 @@ nav ul li a {
 
 .project-group {
     display: grid;
-    grid-template-columns: 1fr;
+    grid-template-columns: 1fr 1fr;
     grid-gap: 3em;
     padding-bottom: 4em;
 }
