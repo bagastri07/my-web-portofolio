@@ -291,6 +291,12 @@ nav ul li a {
     padding-bottom: 4em;
 }
 
+@media(max-width: 500px) {
+    .project-group {
+        grid-template-columns: 1fr;
+    }
+}
+
 .project-group .card-project .project-desc {
     color: white;
 }
